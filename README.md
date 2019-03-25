@@ -2,7 +2,7 @@
 This shell file lets MacOS use [HomeBrew](https://brew.sh) and [Anaconda](https://www.anaconda.com) on the same system, on same path by using a trick made by [Ifu Aniemeka](https://hashrocket.com/blog/posts/keep-anaconda-from-constricting-your-homebrew-installs). This will help you so you don't need to type out the command every time you close and open Terminal.
 
 # Index
-* [Setting up Locally](#setting\ up\ locally)
+* [Setting up Locally](#setting-up-locally)
 * [Summary](#summary)
 * [Questions?](#questions)
 * [License](#license)
