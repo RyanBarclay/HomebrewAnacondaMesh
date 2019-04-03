@@ -18,8 +18,8 @@ git clone git@github.com:username/HomebrewAnacondaMesh.git
 
 3) Copy and paste this into Terminal
 ```
-#this will be your location of the cloned repo
-#for me its here
+#This will be your location of the cloned repo
+#For me it's here
 cd documents/Github/HomebrewAnacondaMesh
 
 #allow this to file to be executed
@@ -47,7 +47,7 @@ What we did here was:
   1. Make a copy of this repository on your local system.
   2. Gave permission to execute the shell file that makes this all work.
   3. Made Terminal run the shell file every time Terminal is opened.
-  4. To test just type
+  4. To test just type into Terminal
   ```
   brew doctor
   ```
